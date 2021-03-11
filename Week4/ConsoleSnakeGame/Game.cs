@@ -7,6 +7,7 @@ namespace ConsoleSnakeGame
 {
     class Game
     {
+        int point = 0;
         Timer snakeTimer = new Timer(100);
         Timer gameTimer = new Timer(1000);
 
@@ -47,6 +48,7 @@ namespace ConsoleSnakeGame
             if (CheckCollisionFoodWithSnake())
             {
                 snakeObj.Increase(snakeObj.body[0]);
+                point++;
                 foodObj.Generate();
             }
             if (wallObj.IsHit(snakeObj.head))
@@ -67,12 +69,12 @@ namespace ConsoleSnakeGame
             }
         }
 
+        DateTime start = DateTime.Now;
+
         private void GameTimer_Elapsed(object sender, ElapsedEventArgs e)
         {
-            Console.Title = DateTime.Now.ToLongTimeString();
+            Console.Title = "Time passed: " + (DateTime.Now - start ).Minutes +" MIN. " + (DateTime.Now - start).Seconds + " SEC." + " Current points: " + point;
         }
-
-
 
         public void KeyPressed(ConsoleKeyInfo pressedKey)
         {
@@ -91,6 +93,7 @@ namespace ConsoleSnakeGame
                     snakeObj.ChangeDirection(1, 0);
                     break;
                 case ConsoleKey.Escape:
+                    Console.Clear();
                     IsRunning = false;
                     break;
                 case ConsoleKey.S:

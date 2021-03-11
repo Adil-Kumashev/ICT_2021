@@ -8,6 +8,7 @@ namespace ConsoleSnakeGame
 {
     class Wall : GameObject
     {
+
         public Wall(char sign, ConsoleColor color, string path) : base(sign, color)
         {
             using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
@@ -45,5 +46,6 @@ namespace ConsoleSnakeGame
             }
             return false;
         }
+
     }
 }

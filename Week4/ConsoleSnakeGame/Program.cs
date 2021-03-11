@@ -9,7 +9,7 @@ namespace ConsoleSnakeGame
             Game game = new Game();
             while (game.IsRunning)
             {
-                game.KeyPressed(Console.ReadKey());
+                game.KeyPressed(Console.ReadKey(true));
             }
         }
     }
