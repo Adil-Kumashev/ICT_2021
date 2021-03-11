@@ -1,0 +1,13 @@
+C:\Users\Adil\source\repos\ICT\bin\Debug\netcoreapp3.1\ICT.exe
+C:\Users\Adil\source\repos\ICT\bin\Debug\netcoreapp3.1\ICT.deps.json
+C:\Users\Adil\source\repos\ICT\bin\Debug\netcoreapp3.1\ICT.runtimeconfig.json
+C:\Users\Adil\source\repos\ICT\bin\Debug\netcoreapp3.1\ICT.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\ICT\bin\Debug\netcoreapp3.1\ICT.dll
+C:\Users\Adil\source\repos\ICT\bin\Debug\netcoreapp3.1\ICT.pdb
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.csprojAssemblyReference.cache
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.AssemblyInfo.cs
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.dll
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.pdb
+C:\Users\Adil\source\repos\ICT\obj\Debug\netcoreapp3.1\ICT.genruntimeconfig.cache

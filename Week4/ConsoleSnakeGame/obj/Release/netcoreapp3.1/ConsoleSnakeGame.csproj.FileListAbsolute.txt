@@ -1,0 +1,13 @@
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\bin\Release\netcoreapp3.1\ConsoleSnakeGame.exe
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\bin\Release\netcoreapp3.1\ConsoleSnakeGame.deps.json
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\bin\Release\netcoreapp3.1\ConsoleSnakeGame.runtimeconfig.json
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\bin\Release\netcoreapp3.1\ConsoleSnakeGame.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\bin\Release\netcoreapp3.1\ConsoleSnakeGame.dll
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\bin\Release\netcoreapp3.1\ConsoleSnakeGame.pdb
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.csprojAssemblyReference.cache
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.AssemblyInfo.cs
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.dll
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.pdb
+C:\Users\Adil\source\repos\Week4\ConsoleSnakeGame\obj\Release\netcoreapp3.1\ConsoleSnakeGame.genruntimeconfig.cache
