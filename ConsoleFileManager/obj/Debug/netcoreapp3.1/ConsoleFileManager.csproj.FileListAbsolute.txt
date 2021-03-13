@@ -1,0 +1,13 @@
+C:\Users\Adil\source\repos\ConsoleFileManager\bin\Debug\netcoreapp3.1\ConsoleFileManager.exe
+C:\Users\Adil\source\repos\ConsoleFileManager\bin\Debug\netcoreapp3.1\ConsoleFileManager.deps.json
+C:\Users\Adil\source\repos\ConsoleFileManager\bin\Debug\netcoreapp3.1\ConsoleFileManager.runtimeconfig.json
+C:\Users\Adil\source\repos\ConsoleFileManager\bin\Debug\netcoreapp3.1\ConsoleFileManager.runtimeconfig.dev.json
+C:\Users\Adil\source\repos\ConsoleFileManager\bin\Debug\netcoreapp3.1\ConsoleFileManager.dll
+C:\Users\Adil\source\repos\ConsoleFileManager\bin\Debug\netcoreapp3.1\ConsoleFileManager.pdb
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.csprojAssemblyReference.cache
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.AssemblyInfoInputs.cache
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.AssemblyInfo.cs
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.dll
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.pdb
+C:\Users\Adil\source\repos\ConsoleFileManager\obj\Debug\netcoreapp3.1\ConsoleFileManager.genruntimeconfig.cache

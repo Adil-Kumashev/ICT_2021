@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "9OPbgucVTeoKnK+HsTz+gjsEnqo21IBwBFyzZ4+zXnUM+3AoKpAjefaeQ16n5jny1EshRLN6gv4lJT1HRWxpQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\source\\repos\\ConsoleSnakeGame\\ConsoleSnakeGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.2.21154.6\\microsoft.netcore.platforms.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.2.21154.6\\microsoft.win32.systemevents.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\miempresa.perez.moduloinventarios\\1.0.0\\miempresa.perez.moduloinventarios.1.0.0.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.2.21154.6\\system.drawing.common.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\system.windows.extensions\\6.0.0-preview.2.21154.6\\system.windows.extensions.6.0.0-preview.2.21154.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MiEmpresa.Perez.ModuloInventarios 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MiEmpresa.Perez.ModuloInventarios",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
